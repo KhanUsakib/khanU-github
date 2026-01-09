@@ -1,4 +1,4 @@
-# one time each project to star
+# one time each project
 git init
 git add .
 git commit -m "first commit"
